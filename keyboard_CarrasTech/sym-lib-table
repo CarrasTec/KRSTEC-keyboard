@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Keyboar)(type Legacy)(uri ${KIPRJMOD}/Keyboar.lib)(options "")(descr ""))
-)
